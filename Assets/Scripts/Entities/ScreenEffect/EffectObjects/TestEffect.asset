@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 609f0a71f1248cf45914e8f7d3591c97, type: 3}
+  m_Name: TestEffect
+  m_EditorClassIdentifier: 
+  effect: {fileID: 2896991637910967701, guid: cac24567e4e640e42be94f2b7dd8e371, type: 3}

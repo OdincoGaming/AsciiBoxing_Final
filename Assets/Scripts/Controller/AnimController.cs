@@ -16,6 +16,7 @@ public class AnimController : MonoBehaviour
 
         int fir;
         int sec;
+        //Determine who went first
         if(player == 1)
         {
             fir = 0;
@@ -58,6 +59,7 @@ public class AnimController : MonoBehaviour
 
      private bool parry()
     {
+        //Check to see if a parry occured
         if(p1.GetMove().hand == "right" && p2.GetMove().hand == "left")
         {
             if(p1.GetMove().height == p2.GetMove().height)

@@ -12,6 +12,7 @@ public class ScoreSystem
         this.p1 = p1;
         this.p2 = p2;
         Player[] p = new Player[2]{p1,p2};
+
         int[] score = new int[2] {0,0};
 
         int fir;

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//the referee makes sure all moves are calculated and applied properly
 public class Referee
 {
     Player p1;

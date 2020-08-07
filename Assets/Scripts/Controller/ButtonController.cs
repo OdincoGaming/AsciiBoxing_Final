@@ -36,6 +36,7 @@ public class ButtonController : MonoBehaviour
         stanceButtons.SetActive(false);
     }
 
+    //Reset all buttons on turn start
     public void Reset()
     {
         moveButtons.SetActive(true);

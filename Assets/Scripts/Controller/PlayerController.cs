@@ -13,7 +13,6 @@ public class PlayerController : MonoBehaviour
 
     public void SetPlayer(GymCard card)
     {
-
         //Ensure players are loaded properly
         if(!this.player1.HasCard())
         {

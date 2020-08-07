@@ -150,6 +150,7 @@ public class FightController : MonoBehaviour
 
     public void MidRound()
     {
+        //Check Stances to see if a move was made
         if(!this.p1Stance)
         {
             this.p1.SetMove("idle");

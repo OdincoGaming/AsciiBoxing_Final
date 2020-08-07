@@ -32,7 +32,6 @@ public class Referee
 
         if (parry())
         {
-            
             ph[fir] = 1;
             ph[sec] = 1;
             ph[sec] -= p[fir].GetMove().dmgDealt;

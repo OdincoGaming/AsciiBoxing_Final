@@ -1,6 +1,11 @@
-# Project Title
+## The Project
 
 Ascii Boxing
+
+The first game I released to the Google Play Store.
+It utilizes a semi-turn based gameplay loop where the length of time you take to make your move determines who goes first. 
+I used Ascii art for the characters as I did not have access to an artist and AI generated art didn't exist yet. 
+This was an eye-opening learning experience about the business side of game development and made me my first $150 as a developer/business owner.
 
 ## Getting Started
 
